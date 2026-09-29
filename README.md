@@ -6,10 +6,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/erwan-omorodion"><img src="https://img.shields.io/badge/LinkedIn-erwan--omorodion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ErwanOmr/it-portfolio"><img src="https://img.shields.io/badge/Portfolio-it--portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/erwan-omorodion"><img src="https://img.shields.io/badge/LinkedIn-Erwan%20Omorodion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://erwanomr.github.io"><img src="https://img.shields.io/badge/Carte%20de%20visite-erwanomr.github.io-4F7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/ErwanOmr/it-portfolio"><img src="https://img.shields.io/badge/Portfolio-it--portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+<a href="mailto:erwan.omorodion@git.swiss"><img src="https://img.shields.io/badge/E--mail-erwan.omorodion%40git.swiss-0F172A?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/erwan-omorodion"><img src="https://img.shields.io/badge/Stage-Recherch%C3%A9-2EA44F?style=for-the-badge" /></a>
-<a href="https://github.com/ErwanOmr"><img src="https://img.shields.io/badge/Localisation-Gen%C3%A8ve-6E40C9?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 
 </div>
 
@@ -52,8 +53,23 @@
 
 ---
 
+### 📇 Ma carte de visite
+
+<table><tr><td align="center" width="190"><a href="https://erwanomr.github.io"><img src="qr.svg" width="160" alt="QR code — carte de visite" /></a></td><td>
+
+Scannez le QR code ou ouvrez **[erwanomr.github.io](https://erwanomr.github.io)** :
+
+- 👤 m'ajouter à vos contacts en 1 clic
+- 💼 accéder à mon portfolio GitHub et à mon LinkedIn
+- ✉️ m'écrire directement
+
+</td></tr></table>
+
+---
+
 ### 📫 Me contacter
 
 <a href="https://www.linkedin.com/in/erwan-omorodion"><img src="https://img.shields.io/badge/Discutons_sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:erwan.omorodion@git.swiss"><img src="https://img.shields.io/badge/M'%C3%A9crire-erwan.omorodion%40git.swiss-4F7CFF?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" />
