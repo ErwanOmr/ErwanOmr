@@ -29,9 +29,7 @@
 | | Projet | En bref |
 |:-:|---|---|
 | 🏗️ | **[Cluster Proxmox HA](https://github.com/ErwanOmr/it-portfolio/blob/main/01-virtualisation-proxmox-ha/README.md)** | Dimensionnement, POC ESXi + Proxmox, cluster 3 nœuds, HA, migration à chaud, sauvegardes |
-| 🌐 | **[Routage statique GNS3](https://github.com/ErwanOmr/it-portfolio/blob/main/02-reseau-gns3-routage-statique/README.md)** | Deux réseaux reliés par des routeurs Cisco, routes statiques, tests et dépannage |
-| 💿 | **[Déploiement par image](https://github.com/ErwanOmr/it-portfolio/blob/main/03-deploiement-image-systeme/README.md)** | Poste de référence, Sysprep, clonage — installation ~4× plus rapide |
-| 🛠️ | **[Dépannage & diagnostic](https://github.com/ErwanOmr/it-portfolio/blob/main/04-depannage-diagnostic/README.md)** | Pannes simulées, outils de diagnostic Windows, tickets d'intervention |
+| 🌐 | **[Routage statique GNS3](https://github.com/ErwanOmr/it-portfolio/blob/main/02-reseau-gns3-routage-statique/README.md)** | Deux réseaux 
 | 🔐 | **[Poste multi-utilisateurs](https://github.com/ErwanOmr/it-portfolio/blob/main/05-poste-multi-utilisateurs/README.md)** | Comptes, permissions NTFS, GPO de verrouillage, politique de mots de passe |
 
 ➡️ **[Voir tous les projets](https://github.com/ErwanOmr/it-portfolio)**
