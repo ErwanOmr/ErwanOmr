@@ -1,6 +1,6 @@
 ## Erwan Omorodion
 
-Étudiant en **1re année de Bachelor IT** au **Geneva Institute of Technology** — Genève, Suisse.
+Étudiant en **1re année de Bachelor IT** au **Geneva Institute of Technology** — Région de Genève, Suisse.
 
 Je me forme à l'**infrastructure**, au **réseau**, à la **virtualisation** et à la **cybersécurité**, en documentant chacun de mes projets de lab comme en entreprise : contexte, procédure, vérifications et retour d'expérience.
 
@@ -27,3 +27,8 @@ Je me forme à l'**infrastructure**, au **réseau**, à la **virtualisation** et
 
 - Bachelor IT au Geneva Institute of Technology
 - Documentation de mes projets de lab sur GitHub
+- **En recherche de stage** en informatique (infrastructure, réseau, support) — région de Genève
+
+### Contact
+
+- LinkedIn : [linkedin.com/in/erwan-omorodion](https://www.linkedin.com/in/erwan-omorodion)
