@@ -29,7 +29,7 @@
 | | Projet | En bref |
 |:-:|---|---|
 | 🏗️ | **[Cluster Proxmox HA](https://github.com/ErwanOmr/it-portfolio/blob/main/01-virtualisation-proxmox-ha/README.md)** | Dimensionnement, POC ESXi + Proxmox, cluster 3 nœuds, HA, migration à chaud, sauvegardes |
-| 🌐 | **[Routage statique GNS3](https://github.com/ErwanOmr/it-portfolio/blob/main/02-reseau-gns3-routage-statique/README.md)** | Deux réseaux 
+| 🌐 | **[Routage statique GNS3](https://github.com/ErwanOmr/it-portfolio/blob/main/02-reseau-gns3-routage-statique/README.md)** | Routage statique entre deux réseaux
 | 🔐 | **[Poste multi-utilisateurs](https://github.com/ErwanOmr/it-portfolio/blob/main/05-poste-multi-utilisateurs/README.md)** | Comptes, permissions NTFS, GPO de verrouillage, politique de mots de passe |
 
 ➡️ **[Voir tous les projets](https://github.com/ErwanOmr/it-portfolio)**
