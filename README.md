@@ -10,7 +10,6 @@
 <a href="https://erwanomr.github.io"><img src="https://img.shields.io/badge/Carte%20de%20visite-erwanomr.github.io-4F7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/ErwanOmr/it-portfolio"><img src="https://img.shields.io/badge/Portfolio-it--portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
 <a href="mailto:erwan.omorodion@git.swiss"><img src="https://img.shields.io/badge/E--mail-erwan.omorodion%40git.swiss-0F172A?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/erwan-omorodion"><img src="https://img.shields.io/badge/Stage-Recherch%C3%A9-2EA44F?style=for-the-badge" /></a>
 
 </div>
 
