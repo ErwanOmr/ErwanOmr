@@ -58,7 +58,6 @@
 
 Scannez le QR code ou ouvrez **[erwanomr.github.io](https://erwanomr.github.io)** :
 
-- 👤 m'ajouter à vos contacts en 1 clic
 - 💼 accéder à mon portfolio GitHub et à mon LinkedIn
 - ✉️ m'écrire directement
 
